@@ -23,6 +23,7 @@ class MString
 {
 	private:
 		char *str;
+		int cacat;
 	
 	public:
 		//constructor. DO NOT USE
